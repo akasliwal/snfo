@@ -1,1 +1,1 @@
-puts "arpit"
+print "arpit"
