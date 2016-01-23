@@ -1,2 +1,2 @@
 print "arpit"
-puts "ruby on rails 1"
+puts "ruby on rails 2"
